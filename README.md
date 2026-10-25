@@ -2,7 +2,7 @@
 Coursework for CS 255 System Analysis and Design
 
 ## About the DriverPass Project
-DriverPass wanted a system that would help students prepare for their driving tests. The system needed to let customers create accounts, choose training packages, schedule driving lessons, take practice tests, and check their progress. It also needed to help employees manage appointments, customer information, lesson notes, reports, and other daily work.
+DriverPass was the client for this project. They wanted a web-based system that would help students prepare for their driving tests. The system needed to let customers create accounts, choose training packages, schedule driving lessons, take practice tests, and check their progress. It also needed to help employees manage appointments, customer information, lesson notes, reports, and other daily work.
 
 ## What I Did Well
 I think I did a good job understanding what the client wanted and turning those needs into system requirements. I also created different diagrams to show how customers and employees would use the system and how different parts of the system work together. These diagrams helped me organize the design and make the system easier to understand.
